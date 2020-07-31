@@ -1,0 +1,57 @@
+_repo: The-Ball-of-Fire_62653
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Gibbs, George
+    alias: Gibbs, George Fort
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '4037'
+    url: http://www.gutenberg.org/2009/agents/4037
+    wikipedia: https://en.wikipedia.org/wiki/George_Fort_Gibbs
+  - agent_name: Bracker, M. Leone
+    birthdate: 1885
+    deathdate: 1937
+    gutenberg_agent_id: '8758'
+    url: http://www.gutenberg.org/2009/agents/8758
+  - agent_name: Foster, Will
+    aliases:
+    - Foster, Bill
+    - Foster, William Frederick
+    birthdate: 1882
+    deathdate: 1953
+    gutenberg_agent_id: '33952'
+    url: http://www.gutenberg.org/2009/agents/33952
+creator:
+  authors:
+  - agent_name: Chester, Lillian
+    birthdate: 1887
+    deathdate: 1961
+    gutenberg_agent_id: '52061'
+    url: http://www.gutenberg.org/2009/agents/52061
+  - agent_name: Chester, George Randolph
+    birthdate: 1869
+    deathdate: 1924
+    gutenberg_agent_id: '1465'
+    url: http://www.gutenberg.org/2009/agents/1465
+    wikipedia: https://en.wikipedia.org/wiki/George_Randolph_Chester
+description: ''
+gutenberg_issued: '2020-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Businessmen -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Churches -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: The Ball of Fire
+url: http://www.gutenberg.org/ebooks/62653
