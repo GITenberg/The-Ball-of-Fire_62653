@@ -1,5 +1,5 @@
 _repo: The-Ball-of-Fire_62653
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Gibbs, George
@@ -22,6 +22,9 @@ contributor:
     deathdate: 1953
     gutenberg_agent_id: '33952'
     url: http://www.gutenberg.org/2009/agents/33952
+covers:
+- cover_type: archival
+  image_path: 62653-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Chester, Lillian
@@ -36,6 +39,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1465
     wikipedia: https://en.wikipedia.org/wiki/George_Randolph_Chester
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62653#The-Ball-of-Fire
 gutenberg_issued: '2020-07-15'
 gutenberg_type: Text
 identifiers:
